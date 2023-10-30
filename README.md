@@ -6,7 +6,7 @@ Bem-vindo ao meu perfil do GitHub! Sou um entusiasta de front-end e estou consta
 - 🌍 Moro em: Fortaleza - CE
 - 💼 Atualmente estou estudando: HTML5, CSS3, JavaScript
 - 📚 Estou fazendo cursos e aprendendo constantemente para me aprimorar no desenvolvimento front-end.
-- 💡 Estou interessado em: [Tópicos de Interesse, por exemplo, design responsivo, UX/UI, frameworks como React, etc.]
+- 💡 Estou interessado em: React, Python, Node.js e UX/UI
 
 ## Minha Contribuição para a Comunidade
 - 🌐 Atualmente, estou focando em meu próprio aprendizado e crescimento. Embora eu ainda não tenha contribuído com projetos de código aberto, estou ansioso para fazer parte da comunidade e contribuir no futuro.
